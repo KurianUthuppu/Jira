@@ -1,5 +1,5 @@
 # Jira
-_Setting up of Jira profile, configs etc:-
+Setting up of Jira profile, configs etc:-
 
 ### Basic requirements
 * Email-id
