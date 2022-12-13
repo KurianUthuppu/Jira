@@ -30,3 +30,10 @@ Setting up of Jira profile, configs etc:-
   - In this, add the login Jira email as the username and the API token as the password
   - Click connect and the choose/transform the requisite data fields so as to kickstart the exploratory visualization stage of the Jira data
   
+### Integration with Teams
+  - Open teams and go to apps on the left bar
+  - Search for Jira and select Jira cloud and then click either 'Add to a team' or 'Add to a chat'
+  - On a similar fashion, we could add confluence cloud as well to the requisite team/chat in teams
+  - Use edge if asking for sign-in confirmation as sometimes it keeps hanging in the windows chrome browser
+  - Go to the requisite teams (channel) / chat and press the '+' button to add the requisite app as tab in the top of the channel
+  - Press the tab to access Jira/Cloud within Team and view or do simple edits
